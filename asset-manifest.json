@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.f7e57327.css",
-    "main.js": "/static/js/main.37729eb4.js",
+    "main.js": "/static/js/main.8b8538cf.js",
     "static/media/CV-DilumNethsara.pdf": "/static/media/CV-DilumNethsara.201d6bd15751519f6c67.pdf",
     "static/media/profile.jpg": "/static/media/profile.12fc69c600d75cbb7d98.jpg",
     "index.html": "/index.html",
     "main.f7e57327.css.map": "/static/css/main.f7e57327.css.map",
-    "main.37729eb4.js.map": "/static/js/main.37729eb4.js.map"
+    "main.8b8538cf.js.map": "/static/js/main.8b8538cf.js.map"
   },
   "entrypoints": [
     "static/css/main.f7e57327.css",
-    "static/js/main.37729eb4.js"
+    "static/js/main.8b8538cf.js"
   ]
 }
